@@ -21,6 +21,7 @@ The official source repositories and records are listed in `configuration/source
 - `index/pairwise_index.csv`: all 105 unordered pair IDs, source mapping, equal weights, and seed formula;
 - `generated_data/mixed_scenarios/`: 14 real generated S1-A--S6-C scenario CSV summaries (600 records per scenario);
 - `generated_data/pairwise/`: 105 real generated pairwise CSV summaries (30 records per pair);
+- `source_data/`: manifests and release-asset links for the NextGen and data2 source-data CSV archives;
 - `DATA_AVAILABILITY.md`: the manuscript-ready Data availability paragraph.
 
 ## Included generated CSVs
